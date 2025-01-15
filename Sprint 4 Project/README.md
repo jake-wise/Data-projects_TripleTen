@@ -1,26 +1,25 @@
-# New York City_Airbnb Data
+# Superstore_Data Visualization
 
 ## Introduction <a id='intro'></a>
 
-In this project, we received data of the New York City Airbnb market from a company looking to find the best locations, rental sizes and most profitable rentals to invest in.
+For this project, we consulted for a company named Superstore by delivering data visualizations and actionable recommendations to enhance operational efficiency and profitability..
 
 ### Goal: 
 Our three main goals were:
-1. Find the most popular neighborhoods in the greater NYC area based on reviews. 
-2. In those top-3 neighborhoods, find the top-3 most popular rental size, which was based on the number of bedrooms. 
-3. Identify the most profitable listings based on monthly expected income, and calculate an annual expected income for those properties.
+1. Analyze profit and losses with visualizations through multiple different combinations of given data. 
+2. Create an advertising budget for for three states who had the top-3 highest performing months on average in terms of profit and provide visualizations. 
+3. Analyze the return rates for customers and items and provide visualizations.
 
 ### Stages 
 
  
-The project consisted of three stages:
- 1. Data cleaning.
- 2. Data processing via pivot tables and charts.
- 3. Presenting results based on data yielded from stage 2.
+The project consisted of two main stages:
+ 1. Create visualizations for each task to be completed.
+ 2. Provide answers and recommendations based on the visualizations.
 
 
 After conducting our analysis, we concluded:
 
-1. The top-3 neighborhoods based on reviews were the Lower East Side, Hells Kitchen and Harlem.
-2. The top-3 rental sizes were 1-bedroom, 2-bedroom and Studio.
-3. The top-3 highest potential earning properties by month were estimated to earn $29,940, $26,100, and $22,800, respectively. The expected annual earnings for each property were $359,280, $313,200, and $273,600, respectively.
+1. Biggest profit centers were copiers being sold in the West Region and chairs being sold in the East Region. Biggest loss makers were binders in the Central region and tables in the East regions, with the worst performing product being an electric binding system.
+2. The top-3 most profitable months on average and the corresponding states were Indiana in October, Vermont in November and Washingtion in March. The respective advertising bugdets for each state, based on 20% of average profit, were Indiana at $128.62, Vermont at $119.20 and Washington at $104.26.
+3. The return rate analysis showed that as return rate went up, profit went down, which is not surprising as return items do not generate profit. The two most returned items came from the same category of office supplies.
